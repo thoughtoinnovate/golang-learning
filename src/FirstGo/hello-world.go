@@ -1,3 +1,7 @@
+/*
+Learning go lang chapter 1
+*/
+
 package main
 
 import (
