@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "FirstGo"
+		},
+		{
+			"path": "Functions"
+		},{
+			"path": "Conditionals"
+		},{
+			"path": "ErrorHandling"
+		},{
+			"path": "Loops"
+		},
+{
+"path":"Arrays_Slices"
+}
+	],
+	"settings": {
+		"go.inferGopath": true,
+		"git.ignoreLimitWarning": true
+	}
+}
