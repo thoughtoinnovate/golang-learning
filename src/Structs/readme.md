@@ -1,0 +1,2 @@
+Structs are similar to objects in Java, but not are exactly same as go is not OO and doesnt follow laws of Object Orinted paradigm e.g. inheritance.
+If you want to create new types in program we can use structs for it.
